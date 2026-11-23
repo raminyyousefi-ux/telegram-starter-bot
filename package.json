@@ -1,7 +1,6 @@
 {
-  "name": "fadehost-telegram-starter-bot",
+  "name": "youtube-telegram-bot",
   "version": "1.0.0",
-  "description": "A Telegram bot starter: commands, an inline button, an echo, polling or webhook mode. Hosted by FadeHost.",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -12,6 +11,5 @@
   },
   "dependencies": {
     "grammy": "^1.30.0"
-  },
-  "license": "MIT"
+  }
 }
